@@ -299,6 +299,7 @@ body {
 .recently-added {
 	padding-top: 109px;
 	padding-left: 180px;
+	float: left;
 }
 
 .recently-added .w-70 {
